@@ -189,9 +189,12 @@ footer span:hover {
 	color: white;
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 720px) {
 	main {
 		width: 100%;
+	}
+	article {
+		width: 90%;
 	}
 	aside {
 		display: none;
