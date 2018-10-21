@@ -132,6 +132,7 @@ section {
 
 .video-module {
 	position: relative;
+	width: 100%;
 }
 .iframe-box {
 	position: relative;
