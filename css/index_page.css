@@ -4,7 +4,7 @@ body {
 	background-image: url(../images/sea.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
-	background-size: 100%;
+	background-size: cover;
 	height: 100vh;
 }
 
