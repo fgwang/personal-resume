@@ -133,7 +133,7 @@ section {
 .video-module {
 	position: relative;
 }
-.video-box {
+.iframe-box {
 	position: relative;
 	margin: 30px auto;
 	width: 100%;
